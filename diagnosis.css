@@ -79,6 +79,10 @@ button#next-button:active {
     border: 2px solid #5b8ab3;
   }
 
+ :focus-visible {
+    outline: none;
+}
+
 .footer-copyrightr {
     background-color: whitesmoke;
     font-size: 12px;
