@@ -76,6 +76,10 @@ button#next-button {
 }
 
 button#next-button:active {
+    background: #5b8ab3;
+  }
+
+  button#next-button:hover {
     border: 2px solid #5b8ab3;
   }
 
