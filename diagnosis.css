@@ -130,7 +130,6 @@ form#answer-form {
     background-color: white;
     display: flex;
     justify-content: center;
-    border-bottom: 1px solid #7cbef7;
 }
 
 button#next-button {
@@ -159,4 +158,6 @@ button#next-button:active {
     padding: 15px 10px;
     display: flex;
     justify-content: center;
+    border-top: 1px solid #7cbef7;
+
 }
