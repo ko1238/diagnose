@@ -86,7 +86,7 @@ body {
     display: flex;
 }
 
-.top-tex {
+.header__logo-container p {
     font-size: 10.5px;
     margin: 6px 0px 0px 4px;
 }
@@ -178,7 +178,7 @@ button#next-button:active {
     position: relative;
 }
 
-.\.result-attention-tex {
+.result-field p {
     margin: 5px 0px 5px 15px;
     font-size: 14px;
 }
