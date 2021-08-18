@@ -166,6 +166,44 @@ button#next-button:active {
     height: 300px;
 }
 
+#diagnosis-result .start-screen {
+    background-color: aliceblue;
+    padding: 25px 10px;
+    height: 250px;
+}
+
+.result-screen-title {
+    background-color: #32343b;
+    display: flex;
+    box-shadow: 0 5px 10px rgb(0 0 0 / 30%);
+    border-radius: 20px 20px 0px 0px;
+}
+
+.result-screen-title h2 {
+    font-size: 20px;
+    color: white;
+    font-family: 游明朝;
+    margin: 10px 15px;
+}
+
+.result-screen-message {
+    background-color: white;
+    box-shadow: 0 5px 10px rgb(0 0 0 / 30%);
+    border-radius: 0px 0px 20px 20px;
+    height: 180px;
+    padding: 10px;
+}
+
+.result-screen-message p {
+    margin: 0;
+}
+
+.result-screen-message br {
+    margin: 15px;
+    content: "";
+    display: block;
+}
+
 .result-field{
     padding: 10px 10px;
     background-color: white;
@@ -203,6 +241,4 @@ img.top__service-zoom {
     bottom: 0;
     right: 0;
 }
-
-
  /*--------------結果ページ--------------*/
