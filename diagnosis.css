@@ -186,7 +186,7 @@ button#next-button:active {
 .all-result-pic {
     width: 92px;
     height: 92px;
-    border: 1px solid #7cbef7;
+    border: 2px solid whitesmoke;
 }
 
 .result-pic{
@@ -194,6 +194,7 @@ button#next-button:active {
     background-color: white;
     display: flex;
     border: 1px solid lightsteelblue;
+    border-radius: 10px;
 }
 
 img.top__service-zoom {
