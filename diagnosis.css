@@ -150,7 +150,7 @@ button#next-button {
 
 button#next-button:active {
     border: 2px solid #5b8ab3;
-  }
+ }
 
 .footer-copyrightr {
     background-color: whitesmoke;
@@ -159,5 +159,49 @@ button#next-button:active {
     display: flex;
     justify-content: center;
     border-top: 1px solid #7cbef7;
-
 }
+
+ /*--------------結果ページ--------------*/
+#diagnosis-result{
+    height: 300px;
+}
+
+.result-field{
+    padding: 10px 10px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.result-field a {
+    display: inline-flex;
+    position: relative;
+}
+
+.result-field p {
+    margin: 5px 0px 5px 15px;
+    font-size: 14px;
+}
+
+.all-result-pic {
+    width: 92px;
+    height: 92px;
+    border: 1px solid #7cbef7;
+}
+
+.result-pic{
+    padding: 10px 15px;
+    background-color: white;
+    display: flex;
+    border: 1px solid lightsteelblue;
+}
+
+img.top__service-zoom {
+    height: 35px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
+ /*--------------結果ページ--------------*/
