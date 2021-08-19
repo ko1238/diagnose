@@ -194,8 +194,9 @@ button#next-button:active {
     padding: 10px;
 }
 
-.result-screen-message p {
+.result-message {
     margin: 0;
+    font-size: 16px;
 }
 
 .result-screen-message br {
@@ -216,7 +217,7 @@ button#next-button:active {
     position: relative;
 }
 
-.result-field p {
+.induction-pic{
     margin: 5px 0px 5px 15px;
     font-size: 14px;
 }
