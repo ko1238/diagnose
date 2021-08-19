@@ -89,6 +89,7 @@ body {
 .header__logo-container p {
     font-size: 10.5px;
     margin: 6px 0px 0px 4px;
+    line-height: 22px;
 }
 
 div#diagnosis-field {
@@ -194,9 +195,10 @@ button#next-button:active {
     padding: 10px;
 }
 
-.result-message {
+.result-screen-message p {
     margin: 0;
     font-size: 16px;
+    line-height: 22px;
 }
 
 .result-screen-message br {
@@ -217,9 +219,10 @@ button#next-button:active {
     position: relative;
 }
 
-.induction-pic{
+.result-field p {
     margin: 5px 0px 5px 15px;
     font-size: 14px;
+    line-height: 22px;
 }
 
 .all-result-pic {
@@ -242,4 +245,8 @@ img.top__service-zoom {
     bottom: 0;
     right: 0;
 }
+
+
+
+
  /*--------------結果ページ--------------*/
